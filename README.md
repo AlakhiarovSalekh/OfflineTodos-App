@@ -1,4 +1,4 @@
-# Offline Todos — Android
+# Offline Android Todo App — Local Datastore & Parse UI
 
 [![Android](https://img.shields.io/badge/Android-Offline%20Todos-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
 [![Stars](https://img.shields.io/github/stars/AlakhiarovSalekh/OfflineTodos-App?style=social)](https://github.com/AlakhiarovSalekh/OfflineTodos-App/stargazers)

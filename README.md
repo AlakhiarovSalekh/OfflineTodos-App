@@ -38,6 +38,8 @@ ParseUI-Android/  Parse UI project used by the sample
 
 Compatibility fixes, dependency modernization, documentation improvements, and focused bug fixes are welcome.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [Notes App](https://github.com/AlakhiarovSalekh/Notes-App) — modern Kotlin/Compose notes application.

@@ -38,6 +38,12 @@ ParseUI-Android/  Parse UI project used by the sample
 
 Compatibility fixes, dependency modernization, documentation improvements, and focused bug fixes are welcome.
 
+## More Projects by Salekh
+
+- [Notes App](https://github.com/AlakhiarovSalekh/Notes-App) — modern Kotlin/Compose notes application.
+- [Weather App](https://github.com/AlakhiarovSalekh/Weather-App) — Android weather application.
+- [Android Kotlin Bluetooth Chat App](https://github.com/AlakhiarovSalekh/Android-Kotlin-Bluetooth-Chat-App) — Bluetooth chat application.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
